@@ -152,9 +152,9 @@ Me interesa participar en proyectos donde pueda aportar en:
 
 ## 📫 Contacto
 
-- LinkedIn: [Agregar enlace]
-- Email: [Agregar email]
-- GitHub: [Agregar perfil]
+- LinkedIn: https://www.linkedin.com/in/fernando-novara/
+- Email: Fernando_Novara@Hotmail.com
+- GitHub: [FernandoNovara (Fernando A. Novara) · GitHub](https://github.com/FernandoNovara)
 
 ---
 
